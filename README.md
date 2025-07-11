@@ -36,7 +36,7 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 
 ### Neural Network Plot
 
-![ Neural Network Plot](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control_1.png)
+![ Neural Network Plot](https://github.com/victortorresds/telco_customer_churn/blob/main/images/nn.png)
 
 ### Top Churn Reasons
 
