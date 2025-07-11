@@ -32,7 +32,7 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 
 ### Churn Status by monthly Charges
 
-![Churn Status by monthly Charges](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control_1.png)
+![Churn Status by monthly Charges](https://github.com/victortorresds/telco_customer_churn/blob/main/images/churn3.png)
 
 ### Neural Network Plot
 
