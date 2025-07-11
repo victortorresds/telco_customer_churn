@@ -40,7 +40,7 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 
 ### Top Churn Reasons
 
-![Top Churn Reasons](https://github.com/victortorresds/telco_customer_churn/blob/main/images/churn1.png))
+![Top Churn Reasons](https://github.com/victortorresds/telco_customer_churn/blob/main/images/churn1.png)
 
 ---
 
