@@ -28,7 +28,7 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 
 ### ROC Curve Comparison
 
-![ROC Curve Comparison](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control.png)
+![ROC Curve Comparison](https://github.com/victortorresds/telco_customer_churn/blob/main/images/churn2.png)
 
 ### Churn Status by monthly Charges
 
