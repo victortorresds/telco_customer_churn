@@ -4,19 +4,19 @@ Welcome to the **Telco Customer Churn Analysis** project! This project aims to e
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 Churn prediction is vital for telecom companies aiming to retain customers and reduce revenue loss. In this project, we:
 
-- Perform Exploratory Data Analysis (EDA) 📈
-- Preprocess and clean the dataset 🧹
+- Perform Exploratory Data Analysis (EDA) 
+- Preprocess and clean the dataset 
 - Build and evaluate models:
-  - Logistic Regression 📉
-  - Neural Networks 🧠
+  - Logistic Regression 
+  - Neural Networks 
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 The dataset used in this analysis is from the [IBM Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn). It includes customer demographics, account information, and service usage patterns.
 
@@ -25,7 +25,7 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Language: **R**
 - Libraries: `tidyverse`, `ggplot2`, `caret`, `nnet`, `dplyr`
