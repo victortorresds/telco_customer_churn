@@ -21,7 +21,28 @@ Churn prediction is vital for telecom companies aiming to retain customers and r
 The dataset used in this analysis is from the [IBM Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn). It includes customer demographics, account information, and service usage patterns.
 
 ---
+---
+## 📸 Visualizations
 
+> To see the full analysis and interactive graphs, view the RMarkdown or HTML report.
+
+### ROC Curve Comparison
+
+![ROC Curve Comparison](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control.png)
+
+### Churn Status by monthly Charges
+
+![Churn Status by monthly Charges](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control_1.png)
+
+### Neural Network Plot
+
+![ Neural Network Plot](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control_1.png)
+
+### Top Churn Reasons
+
+![Top Churn Reasons](https://github.com/victortorresds/Gun_Control_Analysis/blob/main/images/gun_control_1.png)
+
+---
 
 ---
 
