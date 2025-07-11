@@ -3,7 +3,6 @@ title: "Assignment 4"
 author: "Victor Torres"
 date: "2025-05-10"
 output:
-  word_document: default
   html_document: default
 ---
 
