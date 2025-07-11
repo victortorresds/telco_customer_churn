@@ -32,6 +32,3 @@ The dataset used in this analysis is from the [IBM Telco Customer Churn dataset]
 - Environment: RStudio
 
 ---
-
-
-
